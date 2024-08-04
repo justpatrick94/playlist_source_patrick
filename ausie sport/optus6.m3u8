@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:0.1
+#EXT-X-VERSION:1
+#EXT-X-SERVER-CONTROL:CAN-BLOCK-RELOAD=YES,CAN-SKIP-UNTIL=24,PART-HOLD-BACK=3.012
+#EXT-X-PART-INF:PART-TARGET=1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1,
+http://keycdn.co/play/live.php?mac=00:1A:79:74:D2:D4&stream=623738&extension=ts
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=606655&extension=ts
