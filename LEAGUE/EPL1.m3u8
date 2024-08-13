@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+http://line.myox.me:80/play/live.php?mac=00:1A:79:24:94:36&stream=1424311&extension=ts
+#http://050518.pro:8000/play/jt3H8GjlACrE6Jl872b5Mhx-Y6JGABd4kEeMvAPgsnUctmA2F8kaCUgmVsJzVw8rax--8mejmgM0bfsodggtuHfvKQvDFQJXmdb_7d568ivsatxWLjcbLpYBIugPtXuq?ext=.ts
+#http://mag.abcdxyz.one/play/live.php?mac=00:1A:79:17:1E:06&stream=18640&extension=ts
